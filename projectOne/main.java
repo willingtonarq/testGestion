@@ -1,3 +1,3 @@
 public static void main(){
-	String var = "true";
+	String var = "true";	
 }
