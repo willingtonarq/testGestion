@@ -1,3 +1,3 @@
 public static void main(){
-	sout
+	String var = "false";
 }
