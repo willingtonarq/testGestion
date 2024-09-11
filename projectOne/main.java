@@ -1,4 +1,6 @@
 public static void main(){
-	String var = "false";
+
+	String var = "true";
 	String var2 = "false";
+
 }
